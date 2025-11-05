@@ -1,5 +1,5 @@
 {
-  "name": "AI Emergency Assistant",
+  "name": "Medical Emergency Assistant",
   "description": "An AI-powered assistant to provide immediate, actionable guidance during medical emergencies, including first aid steps and directions to local help.",
   "requestFramePermissions": [
     "geolocation"
